@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="zhangxiaoyu@122.207.82.54:16000 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhangxiaoyu/zxy_code/MSDRPred" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -56,9 +56,11 @@ SNF similarity fusion algorithm package.
 
 ## 3. network.py
 
- This function contains the network framework of our entire model and is based on pytorch 1.10
+ This function contains the network framework of our entire model and is based on pytorch 1.10.
 
 ## 4. utils.py
+
+This function contains the necessary processing subroutines.
 
 # Train and test 
 
@@ -68,7 +70,7 @@ mode: Set the mode to train or test, then you can train the model or test the mo
 
 epochs: Define the maximum number of epochs.
 
-batch_size: Define the number of batch size for training and testing.
+batch_size: Define the number of batch size for training.
 
 rawpath: All input data should be placed in the folder of this path. (The data folder we uploaded contains all the required data.)
 
